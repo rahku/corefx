@@ -18,6 +18,7 @@
     "System.Text.RegularExpressions": "4.3.0-beta-24604-02",
     "System.Threading": "4.3.0-beta-24604-02",
     "System.Threading.Tasks": "4.3.0-beta-24604-02",
+    "System.Diagnostics.Process": "4.3.0-beta-24604-02",
     "test-runtime": {
       "target": "project",
       "exclude": "compile"
